@@ -11,4 +11,4 @@ Requirements:
 	- Landscape artwork
 	- Tank artwork
 	- Victory music
-  - Shooting and explosion sound effects
+        - Shooting and explosion sound effects
